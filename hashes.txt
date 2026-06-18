@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios marchitos
+
+This log tracks the cryptographic history and versioning for the song **Labios marchitos** (labios-marchitos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T22:05:36.230154 | `v1` | `5446ea0fd6dfc076cfc26607168336167bc37fc6a444ee6b84a2f2bc1119117f` | `7e11868e806d67c4bf152a707d2d586f5740e71eb60fd932deb710710a4c8c82` | `2026-06-18_labios-marchitos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
