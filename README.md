@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-marchitos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Labios marchitos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-marchitos/) |
+| **Get License** | [Request Licensing for Labios marchitos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-marchitos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tus labios me llaman en la oscuridad
+> Dime si esta noche tú te escapas de la ciudad
+> Tengo la mente loca pensando en la intimidad
+> Un beso de esos que quitan toda la gravedad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
